@@ -1,17 +1,24 @@
-# Supermarket-Sales
+## Supermarket-Sales
 
-## Overview
+#Overview
 
-## Key Objectives
+#Dataset Overview
+- Order ID, Order date, Ship date
+- Customer Name, Segment, Region, State
+- Category, Sub-category
+- Sales, Quantity, Discount, Profit
 
-## Tools and techniques used
+#Business Problem
+- Where are we loosing the money and why?
+- Which customer segments or regions should we target to increase profitability?
+
+#Tools and techniques used
 - Microsoft Excel ()
 - Pivot Tables and Pivot Charts
 - VLOOKUP, INDEX-MATCH and other formulas
 - Conditional Formatting
 - Dashboard Design
+- Tableau
 
-## Project Highlights
+#Project Highlights
 
-## License
-This project is for educational and portfolio purposes only. Data used is publically availavle and anonymized.
