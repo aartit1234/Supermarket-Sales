@@ -2,6 +2,7 @@
 
 #Overview
 
+
 #Dataset Overview
 - Order ID, Order date, Ship date
 - Customer Name, Segment, Region, State
@@ -19,6 +20,3 @@
 - Conditional Formatting
 - Dashboard Design
 - Tableau
-
-#Project Highlights
-
