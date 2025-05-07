@@ -44,4 +44,4 @@
 - Superstore full analysis.xlxs (Raw data + Analysis)
 - (Presentation)
 - (Visualizations)
-- (Recommendations)
+- Recommendations(sales at supermarket)
