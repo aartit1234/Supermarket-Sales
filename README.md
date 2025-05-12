@@ -42,7 +42,5 @@
 #Files in use
 - Readme (Overview of this repository)
 - Superstore full analysis.xlxs (Raw data + Analysis)
-- (Presentation)
-- (Visualizations)
 - Superstore insights
 - Superstore recommendations
